@@ -1760,7 +1760,7 @@ M05
 M02
 %
 ```
-# Result
+## Result
 Thus the G-Code is converted into Auto leveler Code using Autoleveller software.
 
 
